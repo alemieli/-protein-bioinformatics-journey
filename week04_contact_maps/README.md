@@ -33,4 +33,3 @@ exercise-4-contact-maps/
 ├── requirements.txt           # Project dependencies
 └── README.md                  # Project documentation
 
-![Protein Contact Maps Comparison](outputs/contact_maps_comparison.png)
